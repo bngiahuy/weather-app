@@ -2,8 +2,6 @@
 
 A modern weather application built with React and TypeScript that allows users to search for weather information by city or country.
 
-![Weather App Screenshot](https://via.placeholder.com/800x450.png?text=Weather+App+Screenshot)
-
 ## Features
 
 - Search for weather by city or country name
